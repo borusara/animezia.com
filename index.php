@@ -5,19 +5,19 @@ require('./_config.php');
 <html lang="en">
 
 <head>
-    <title>AnimeZia - Official AnimeZia Watch High Quality Anime Online Without Ads</title>
+    <title>Anijoy - Official Anijoy Watch High Quality Anime Online Without Ads</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="robots" content="index,follow" />
     <meta http-equiv="content-language" content="en" />
-     <meta name="title" content="AnimeZia - Official AnimeZia #1 Watch High Quality Anime Online Without Ads" />
-    <meta name="description" content="AnimeZia - Official AnimeZia #1 Watch High Quality Anime Online Without Ads. You can watch anime online free in HD without Ads. Best place for free find and one-click anime." />
-    <meta name="keywords" content="animezia, animezia anime, download anime, otakuu, watch anime online, free anime, anime stream, anime hd, english sub, kissanime, gogoanime, animeultima, 9anime, 123animes, vidstreaming, gogo-stream, animekisa, zoro.to, gogoanime.run, animefrenzy, animekisa" />
+     <meta name="title" content="Anijoy - Official Anijoy #1 Watch High Quality Anime Online Without Ads" />
+    <meta name="description" content="Anijoya - Official Anijoy #1 Watch High Quality Anime Online Without Ads. You can watch anime online free in HD without Ads. Best place for free find and one-click anime." />
+    <meta name="keywords" content="anijoy, zoroto, sanjito, anijoy anime, download anime, Hashira, Hashira association, Hashira Network, Prime, Primes, Primes division, Prime Division, eviltox, Knights, weeb, otakuu, watch anime online, free anime, anime stream, anime hd, english sub, kissanime, gogoanime, Ainkatsu, Anikatsu, Animezea, zoro, sanji, animeultima, 9anime, 123animes, vidstreaming, gogo-stream, animekisa, zoro.to, gogoanime.run, animefrenzy, animekisa" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="<?=$websiteUrl?>" />
-    <meta property="og:title" content="AnimeZia - Official AnimeZia Watch High Quality Anime Online Without Ads" />
+    <meta property="og:title" content="Anijoy - Official Anijoy Watch High Quality Anime Online Without Ads" />
     <meta property="og:image" content="<?=$cdn?>/images/banner.webp" />
     <meta property="og:description "
-        content="AnimeZia - Official AnimeZia #1 Watch High Quality Anime Online Without Ads. You can watch anime online free in HD without Ads. Best place for free find and one-click anime." />
+        content="Anijoy - Official Anijoy #1 Watch High Quality Anime Online Without Ads. You can watch anime online free in HD without Ads. Best place for free find and one-click anime." />
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
     <meta name="apple-mobile-web-app-status-bar" content="#202125">
     <meta name="theme-color" content="#202125">
