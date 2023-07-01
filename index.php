@@ -214,7 +214,7 @@ if ('serviceWorker' in navigator) {
                                 anime
                                 streaming:</p>
                             <ul>
-                                <li><strong>Safety:</strong> We try our best to not having harmful ads on AnimeZia.
+                                <li><strong>Safety:</strong> We try our best to not having harmful ads on Anijoy.
                                 </li>
                                 <li><strong>Content library:</strong> Our main focus is anime. You can find here
                                     popular,
@@ -226,7 +226,7 @@ if ('serviceWorker' in navigator) {
                                 </li>
                                 <li><strong>Quality/Resolution:</strong> All titles are in excellent resolution, the
                                     best
-                                    quality possible. AnimeZia also has a quality setting function to make sure our users
+                                    quality possible. Anijoy also has a quality setting function to make sure our users
                                     can
                                     enjoy streaming no matter how fast your Internet speed is. You can stream the anime
                                     at
@@ -234,12 +234,12 @@ if ('serviceWorker' in navigator) {
                                     even 1080p anime.
                                 </li>
                                 <li><strong>Streaming experience:</strong> Compared to other anime streaming sites, the
-                                    loading speed at AnimeZia is faster. Downloading is just as easy as streaming, you
+                                    loading speed at Anijoy is faster. Downloading is just as easy as streaming, you
                                     won't
                                     have any problem saving the videos to watch offline later.
                                 </li>
                                 <li><strong>Updates:</strong> We updates new titles as well as fulfill the requests on a
-                                    daily basis so be warned, you will never run out of what to watch on AnimeZia.
+                                    daily basis so be warned, you will never run out of what to watch on Anijoy.
                                 </li>
                                 <li><strong>User interface:</strong> Our UI and UX makes it easy for anyone, no matter
                                     how
@@ -251,7 +251,7 @@ if ('serviceWorker' in navigator) {
                                     site's
                                     categories or simply scroll down for new releases.
                                 </li>
-                                <li><strong>Device compatibility:</strong> AnimeZia works alright on both your mobile and
+                                <li><strong>Device compatibility:</strong> Anijou works alright on both your mobile and
                                     desktop. However, we'd recommend you use your desktop for a smoother streaming
                                     experience.
                                 </li>
@@ -263,7 +263,7 @@ if ('serviceWorker' in navigator) {
                                 </li>
                             </ul>
                             <p>So if you're looking for a trustworthy and safe site for your Anime streaming, let's give
-                                AnimeZia a try. And if you like us, please help us to spread the words and do not forget
+                                Anijoy a try. And if you like us, please help us to spread the words and do not forget
                                 to
                                 bookmark our site.</p>
                             <p>Thank you!</p>
