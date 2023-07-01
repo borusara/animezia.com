@@ -183,7 +183,7 @@ if ('serviceWorker' in navigator) {
                     
                     <div class="mwb-2col">
                         <div class="mwb-left" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                            <h1 itemprop="name" class="mw-heading">AnimeZia - The best site to watch anime online for Free</h1>
+                            <h1 itemprop="name" class="mw-heading">Anijoy - The best site to watch anime online for Free</h1>
 							<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                             <p itemprop="text">Do you know that according to Google, the monthly search volume for anime related topics
                                 is
@@ -192,25 +192,25 @@ if ('serviceWorker' in navigator) {
                                 rise in the number of free anime streaming sites.</p> </div>
                             <p>Just like free online movie streaming sites, anime watching sites are not created
                                 equally,
-                                some are better than the rest, so we've decided to build AnimeZia to be one of the best
+                                some are better than the rest, so we've decided to build Anijoy to be one of the best
                                 free
                                 anime streaming site for all anime fans on the world. Also, We are just indexing api results. Blame Consumet api</p>
-                            <h2>1/ What is AnimeZia?</h2>
-                            <p>AnimeZia is a free site to watch anime and you can even download subbed or dubbed anime in
+                            <h2>1/ What is Anijoy?</h2>
+                            <p>Anijoy is a free site to watch anime and you can even download subbed or dubbed anime in
                                 ultra HD quality without any registration or payment. By having No Ads in all kinds, we
                                 are
                                 trying to make it the safest site for free anime.</p>
-                            <h2>2/ Is AnimeZia safe?</h2>
+                            <h2>2/ Is Anijoy safe?</h2>
                             <p>Yes we are, we do have only one Ads to cover the server cost and we keep scanning the ads
                                 24/7 to make sure all are clean, If you find any ads that is suspicious, please forward
                                 us
                                 the info and we will remove it.</p>
-                            <h2>3/ So what make AnimeZia the best site to watch anime free online?</h2>
-                            <p>Before building AnimeZia, we've checked many other free anime sites, and learnt from them.
+                            <h2>3/ So what make Anijoy the best site to watch anime free online?</h2>
+                            <p>Before building Anijoy, we've checked many other free anime sites, and learnt from them.
                                 We
                                 only keep the good things and remove all the bad things from all the competitors, to put
                                 it
-                                in our AnimeZia website. Let's see how we're so confident about being the best site for
+                                in our Anijoy website. Let's see how we're so confident about being the best site for
                                 anime
                                 streaming:</p>
                             <ul>
