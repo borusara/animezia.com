@@ -2,8 +2,8 @@
 
 $websiteTitle = "Anijoy"; // Website Name
 $websiteUrl = "//{$_SERVER['SERVER_NAME']}";  // Website URL
-$websiteLogo = "https://cdnzia.pages.dev/images/logo.webp"; // Logo
-$websiteLogo2 = "https://cdnzia.pages.dev/images/logo2.webp";
+$websiteLogo = "https://cdnzia-eta.vercel.app/images/logo.webp"; // Logo
+$websiteLogo2 = "https://cdnzia-eta.vercel.app/images/logo2.webp";
 $contactEmail = "senku@animezia.com"; // Contact Email
 
 
@@ -20,7 +20,7 @@ $twitter = "#"; // Twitter
 
 $disqus = "https://watchzia.disqus.com"; // Disqus
 
-$cdn = "https://cdnzia.pages.dev"; // cdn repo https://github.com/warlordsnet/cdnzia
+$cdn = "https://cdnzia-eta.vercel.app"; // cdn repo https://github.com/warlordsnet/cdnzia
 
 // API URL
 $api ="https://anijoyhashira-8d969ead87e2.herokuapp.com"; // api repo https://github.com/warlordsnet/zia-api
