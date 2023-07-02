@@ -123,7 +123,7 @@ if ('serviceWorker' in navigator) {
                         </div>
                         <div class="mwh-logo">
                             <a href="<?=$websiteUrl?>/home" class="mwh-logo-div">
-                                <img src="<?=$cdn?>/images/logo.webp" alt="AnimeZia">
+                                <img src="<?=$cdn?>/images/logo2.webp" alt="AnimeZia">
                             </a>
                             <div class="clearfix"></div>
                         </div>
