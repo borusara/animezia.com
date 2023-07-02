@@ -19,8 +19,8 @@ require('./_config.php');
     <meta property="og:description "
         content="Anijoy - Official Anijoy #1 Watch High Quality Anime Online Without Ads. You can watch anime online free in HD without Ads. Best place for free find and one-click anime." />
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
-    <meta name="apple-mobile-web-app-status-bar" content="#000000">
-    <meta name="theme-color" content="#000000">
+    <meta name="apple-mobile-web-app-status-bar" content="#202125">
+    <meta name="theme-color" content="#202125">
     <link rel="shortcut icon" href="<?=$websiteUrl?>/favicon.ico" type="image/x-icon" />
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css?v=0.002">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css?v=0.002">
